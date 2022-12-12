@@ -25,12 +25,11 @@ npx react-native run-android
 ```sh
 pod install --repo-update --project-directory=ios
 npx react-native run-ios
+```
 
-## Technologies Used
+### Technologies Used
 - React-native 
 - Biometric library used
 
-
-## Screenshots
-
-![Image](screenshot.png)
+### Screenshots
+![Image](./screenshot.jpeg)
