@@ -28,9 +28,9 @@ npx react-native run-ios
 
 ## Technologies Used
 - React-native 
-- Biometrics library used
+- Biometric library used
 
 
 ## Screenshots
 
-![Image](./screenshot.png)
+![Image](./screenshot.jpeg)
